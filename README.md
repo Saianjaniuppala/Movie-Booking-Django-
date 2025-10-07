@@ -177,31 +177,6 @@ python manage.py test
 
 ---
 
-## 📘 Project Structure
-
-```
-movie_booking/
-│
-├── movie_booking/           # Project folder
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-│
-├── movies/                  # App folder
-│   ├── models.py
-│   ├── serializers.py
-│   ├── views.py
-│   ├── urls.py
-│   ├── admin.py
-│   └── tests.py
-│
-├── requirements.txt
-├── README.md
-└── manage.py
-```
-
----
-
 ## 🌟 Future Enhancements
 
 * Add seat map visualization.
